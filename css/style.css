@@ -1,0 +1,15 @@
+h1{
+	color: red;
+	border: 5px dashed blueviolet;
+	background-color: aquamarine;
+}
+h2{
+	color:blue;
+	background-color: aliceblue;
+	border: 5px dashed black
+}
+h3{
+	color: green;
+	background-color: lime;
+	border: 4px dashed lightcoral;
+}
